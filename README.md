@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link](https://github.com/NerijusNoreika/faq-accordion-card)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [LinkAdd live site URL here](https://nerijusnoreika.github.io/faq-accordion-card/)
 
 ## My process
 
@@ -43,4 +43,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@NerijusNOreika](https://www.frontendmentor.io/profile/NerijusNoreika)
+- Frontend Mentor - [@NerijusNoreika](https://www.frontendmentor.io/profile/NerijusNoreika)
